@@ -12,14 +12,11 @@ if response.status_code == 200:
     repos = response.json()["items"]
     readme_content = "# 📚 EFREI\n\n"
     readme_content += "_Ce repository regroupe tous les travaux pratiques réalisés au cours des années suivante : Bachelor 3, Master 1 et Master 2 à l'__EFREI Paris Assas Panthéon__._\n\n"
-    readme_content += "| Nom de la matière | Nom du repos | Status | Lien |\n"
+    readme_content += "| Année | Nom du repos | Status | Lien |\n"
     readme_content += "|-------------------|----------------|--------|------|\n"
     
     for repo in repos:
-        matiere = "Non spécifié"
-        statut_text = "Non%20commencé"
-        statut_badge = "red"
-        
+       
         topics = repo.get("topics", [])
         
         for topic in topics:
@@ -35,8 +32,24 @@ if response.status_code == 200:
             else:
                 statut_text = "Non%20commencé"
                 statut_badge = "red"
+                
+            if "B3" in topic:
+                annee_text = "B3"
+                annee_badge = "blue"
+                break 
+            elif "M1" in topic:
+                annee_text = "M1"
+                annee_badge = "8A2BE2"
+                break 
+            elif "M2" in topic:
+                annee_text = "M2"
+                annee_badge = "060270"
+                break 
+            else:
+                annee_text = "Non%20spécifié"
+                annee_badge = "grey"
         
-        readme_content += f"| {matiere} | `{repo['name']}` | ![{statut_text}](https://img.shields.io/badge/{statut_text}-{statut_badge}) | [🔗]({repo['html_url']}) |\n"
+        readme_content += f"| ![{annee_text}](https://img.shields.io/badge/{annee_text}-{annee_badge}) | `{repo['name']}` | ![{statut_text}](https://img.shields.io/badge/{statut_text}-{statut_badge}) | [🔗]({repo['html_url']}) |\n"
 
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(readme_content)
