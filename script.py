@@ -32,7 +32,8 @@ if response.status_code == 200:
             else:
                 statut_text = "Non%20commencé"
                 statut_badge = "red"
-                
+
+        for topic in topics:
             if "b3" in topic:
                 annee_text = "B3"
                 annee_badge = "blue"
