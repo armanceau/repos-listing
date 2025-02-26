@@ -33,15 +33,15 @@ if response.status_code == 200:
                 statut_text = "Non%20commencé"
                 statut_badge = "red"
                 
-            if "B3" in topic:
+            if "b3" in topic:
                 annee_text = "B3"
                 annee_badge = "blue"
                 break 
-            elif "M1" in topic:
+            elif "m1" in topic:
                 annee_text = "M1"
                 annee_badge = "8A2BE2"
                 break 
-            elif "M2" in topic:
+            elif "m2" in topic:
                 annee_text = "M2"
                 annee_badge = "060270"
                 break 
