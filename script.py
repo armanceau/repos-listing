@@ -11,7 +11,7 @@ response = requests.get(url)
 if response.status_code == 200:
     repos = response.json()["items"]
     readme_content = "# 📚 EFREI\n\n"
-    readme_content = "_Ce repository regroupe tous les travaux pratiques réalisés au cours des années suivante : Bachelor 3, Master 1 et Master 2 à l'__EFREI Paris Assas Panthéon__._\n\n"
+    readme_content += "_Ce repository regroupe tous les travaux pratiques réalisés au cours des années suivante : Bachelor 3, Master 1 et Master 2 à l'__EFREI Paris Assas Panthéon__._\n\n"
     readme_content += "| Nom de la matière | Nom du repos | Status | Lien |\n"
     readme_content += "|-------------------|----------------|--------|------|\n"
     
