@@ -21,6 +21,9 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Tirer les dernières modifications du dépôt distant
+        run: git pull origin main
+      
       - name: Run script
         run: python script.py
 
