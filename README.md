@@ -17,8 +17,8 @@ _Ce repository regroupe tous les travaux pratiques réalisés au cours des anné
 |----------------|--------|------|
 | `RH-Data` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/RH-Data) |
 | `VueExFrontAPi` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/VueExFrontAPi) |
-| `TaskFlow` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/TaskFlow) |
 | `TypeScriptEx1` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/TypeScriptEx1) |
+| `TaskFlow` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/TaskFlow) |
 | `nestjs-full-api` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/nestjs-full-api) |
 | `first-graphql-server` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/first-graphql-server) |
 | `rick-morty-graphql` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/rick-morty-graphql) |
