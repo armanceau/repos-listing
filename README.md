@@ -7,18 +7,18 @@ _Ce repository regroupe tous les travaux pratiques réalisés au cours des anné
 
 | Nom du repo | Status | Lien |
 |----------------|--------|------|
-| `my-efrei` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/my-efrei) |
 | `efrei-spring-boot` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/efrei-spring-boot) |
 | `JO-API-Spring` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/JO-API-Spring) |
+| `my-efrei` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/my-efrei) |
 
 ## ![M1](https://img.shields.io/badge/M1-8A2BE2)
 
 | Nom du repo | Status | Lien |
 |----------------|--------|------|
-| `RH-Data` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/RH-Data) |
-| `VueExFrontAPi` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/VueExFrontAPi) |
-| `TaskFlow` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/TaskFlow) |
-| `TypeScriptEx1` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/TypeScriptEx1) |
 | `first-graphql-server` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/first-graphql-server) |
 | `nestjs-full-api` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/nestjs-full-api) |
+| `VueExFrontAPi` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/VueExFrontAPi) |
+| `TypeScriptEx1` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/TypeScriptEx1) |
+| `TaskFlow` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/TaskFlow) |
+| `RH-Data` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/RH-Data) |
 | `rick-morty-graphql` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/rick-morty-graphql) |
