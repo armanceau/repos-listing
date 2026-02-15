@@ -32,5 +32,5 @@ _Ce repository regroupe tous les travaux pratiques réalisés au cours des anné
 |----------------|--------|------|
 | `cli-contact` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/cli-contact) |
 | `go-url-shortener` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/go-url-shortener) |
+| `TDD-projet-final` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/TDD-projet-final) |
 | `cli-notification` | ![En%20cours](https://img.shields.io/badge/En%20cours-FF6600) | [🔗](https://github.com/armanceau/cli-notification) |
-| `TDD-projet-final` | ![Non%20commencé](https://img.shields.io/badge/Non%20commencé-red) | [🔗](https://github.com/armanceau/TDD-projet-final) |
