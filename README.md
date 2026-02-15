@@ -7,12 +7,12 @@ _Ce repository regroupe tous les travaux pratiques réalisés au cours des anné
 
 | Nom du repo | Status | Lien |
 |----------------|--------|------|
-| `JO-API-Spring` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/JO-API-Spring) |
-| `java` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/java) |
-| `my-efrei` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/my-efrei) |
-| `LeSupercoin` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/LeSupercoin) |
 | `DesignPatterns` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/DesignPatterns) |
+| `JO-API-Spring` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/JO-API-Spring) |
 | `myagenda` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/myagenda) |
+| `my-efrei` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/my-efrei) |
+| `java` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/java) |
+| `LeSupercoin` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/LeSupercoin) |
 | `DockerFinal` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/DockerFinal) |
 
 ## ![M1](https://img.shields.io/badge/M1-8A2BE2)
@@ -21,10 +21,8 @@ _Ce repository regroupe tous les travaux pratiques réalisés au cours des anné
 |----------------|--------|------|
 | `rick-morty-graphql` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/rick-morty-graphql) |
 | `instagraph` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/instagraph) |
-| `nestjs-full-api` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/nestjs-full-api) |
-| `RH-Data` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/RH-Data) |
-| `VueExFrontAPi` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/VueExFrontAPi) |
 | `TaskFlow` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/TaskFlow) |
+| `RH-Data` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/RH-Data) |
 | `Projet-RabbitMQ` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/Projet-RabbitMQ) |
 | `first-graphql-server` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/first-graphql-server) |
 
@@ -33,3 +31,6 @@ _Ce repository regroupe tous les travaux pratiques réalisés au cours des anné
 | Nom du repo | Status | Lien |
 |----------------|--------|------|
 | `cli-contact` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/cli-contact) |
+| `go-url-shortener` | ![Terminé](https://img.shields.io/badge/Terminé-brightgreen) | [🔗](https://github.com/armanceau/go-url-shortener) |
+| `cli-notification` | ![En%20cours](https://img.shields.io/badge/En%20cours-FF6600) | [🔗](https://github.com/armanceau/cli-notification) |
+| `TDD-projet-final` | ![Non%20commencé](https://img.shields.io/badge/Non%20commencé-red) | [🔗](https://github.com/armanceau/TDD-projet-final) |
